@@ -1,0 +1,38 @@
+_repo: One-Man-s-View_43971
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Granville-Barker, Harley
+    alias: Barker, Granville
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '6291'
+    url: http://www.gutenberg.org/2009/agents/6291
+    wikipedia: http://en.wikipedia.org/wiki/Harley_Granville-Barker
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merrick, Leonard
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '3207'
+    url: http://www.gutenberg.org/2009/agents/3207
+description: ''
+gutenberg_issued: '2013-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Divorced women -- Fiction'
+- !lcc 'PR'
+title: One Man's View
+url: http://www.gutenberg.org/ebooks/43971
